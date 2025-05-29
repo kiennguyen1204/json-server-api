@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@example.com",
+      "name": "admin1",
+      "password": "Abcd@1234",
+      "avatar": "https://example.com/avatars/user1.jpg"
+    },
+    {
+      "id": 2,
+      "email": "user2@example.com",
+      "name": "admin2",
+      "password": "Abcd@1234",
+      "avatar": "https://example.com/avatars/user2.jpg"
+    },
+    {
+      "email": "user3@example.com",
+      "password": "$2a$10$uuhGElmYV4lBpg0qlBa3reyNHX3Nlc4q6CEqKmfkqWUryhEmlTLU.",
+      "name": "admin1",
+      "avatar": "https://example.com/avatars/user1.jpg",
+      "id": 3
+    },
+    {
+      "email": "user4@example.com",
+      "password": "$2a$10$aivvHdwo8E4LsvseiyMN9.593EtapDZLQjgBVl536lqRfUqNetBoq",
+      "name": "admin1",
+      "avatar": "https://example.com/avatars/user1.jpg",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Black Simple Lamp",
+      "image": "https://m.media-amazon.com/images/I/61BZMkuj85L._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 2111,
+      "description": "aaaaaaaa",
+      "category": "Chair",
+      "rating": 4,
+      "reviewCount": 10,
+      "imageList": [
+        {
+          "color": "#FFFFFF",
+          "image": "https://m.media-amazon.com/images/I/61j3e6uWiuL._AC_SL1500_.jpg"
+        },
+        {
+          "color": "#B4916C",
+          "image": "https://m.media-amazon.com/images/I/61lJK9kXTqL._AC_SL1500_.jpg"
+        },
+        {
+          "color": "#E4CBAD",
+          "image": "https://m.media-amazon.com/images/I/71a2eOmVxLL._AC_SL1500_.jpg"
+        }
+      ],
+      "createdAt": "2025-05-27T07:33:09.468Z",
+      "updatedAt": "2025-05-27T07:33:09.468Z",
+      "publishedAt": "2025-05-27T07:33:09.476Z"
+    },
+    {
+      "id": 2,
+      "name": "Black Simple Lamp 2",
+      "image": "https://m.media-amazon.com/images/I/61j3e6uWiuL._AC_SL1500_.jpg",
+      "price": 1111,
+      "description": "aaaaa",
+      "category": "Bag",
+      "rating": 4,
+      "reviewCount": 10,
+      "imageList": [
+        {
+          "color": "#FFFFFF",
+          "image": "https://m.media-amazon.com/images/I/81bwiKeVWzL._AC_SL1500_.jpg"
+        },
+        {
+          "color": "#B4916C",
+          "image": "https://m.media-amazon.com/images/I/715DR6i5FnL._AC_SL1500_.jpg"
+        },
+        {
+          "color": "#E4CBAD",
+          "image": "https://m.media-amazon.com/images/I/81TkJswJG0L._AC_SL1500_.jpg"
+        }
+      ]
+    }
+  ]
+}

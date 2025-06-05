@@ -48,15 +48,15 @@
       "reviewCount": 4,
       "imageList": [
         {
-          "color": "#E4CBAD",
+          "color": "#FFFFFF",
           "image": "https://m.media-amazon.com/images/I/81j-YJUMFkL._AC_SL1500_.jpg"
         },
         {
-          "color": "#FFFFFF",
+          "color": "#B4916C",
           "image": "https://m.media-amazon.com/images/I/818vbkvpQ9L._AC_SL1500_.jpg"
         },
         {
-          "color": "#000000",
+          "color": "#E4CBAD",
           "image": "https://m.media-amazon.com/images/I/71XRSkMLUmL._AC_SL1500_.jpg"
         }
       ]
